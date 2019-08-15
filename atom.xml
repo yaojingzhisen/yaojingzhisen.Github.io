@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yaojingzhisen.github.io</id>
     <title>妖精之森</title>
-    <updated>2019-08-15T03:36:29.668Z</updated>
+    <updated>2019-08-15T03:54:57.008Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yaojingzhisen.github.io"/>
     <link rel="self" href="https://yaojingzhisen.github.io/atom.xml"/>
@@ -11,25 +11,12 @@
     <icon>https://yaojingzhisen.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 妖精之森</rights>
     <entry>
-        <title type="html"><![CDATA[测试]]></title>
-        <id>https://yaojingzhisen.github.io/post/ce-shi</id>
-        <link href="https://yaojingzhisen.github.io/post/ce-shi">
+        <title type="html"><![CDATA[我永远喜欢希伯鸽]]></title>
+        <id>https://yaojingzhisen.github.io/post/wo-yong-yuan-xi-huan-xi-bo-ge</id>
+        <link href="https://yaojingzhisen.github.io/post/wo-yong-yuan-xi-huan-xi-bo-ge">
         </link>
-        <updated>2019-08-14T16:48:39.000Z</updated>
-        <summary type="html"><![CDATA[<p>欢迎访问妖精之森动漫社的官网
-点击查看详情</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>欢迎访问妖精之森动漫社的官网
-点击查看详情</p>
-<!-- more -->
-<p><img src="https://yaojingzhisen.github.io/post-images/1565801452413.jpg" alt="图片测试">
-<a href="https://space.bilibili.com/339846335?spm_id_from=333.788.b_765f7570696e666f.1">网站测试</a></p>
-<ul>
-<li>要点测试</li>
-</ul>
-<h1 id="大字体测试">大字体测试</h1>
-<h2 id="测试">测试</h2>
-<h3 id="测试-2">测试</h3>
+        <updated>2019-08-15T03:53:37.000Z</updated>
+        <content type="html"><![CDATA[<p>测试</p>
 ]]></content>
     </entry>
 </feed>
