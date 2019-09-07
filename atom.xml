@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yaojingzhisen.github.io</id>
     <title>妖精之森</title>
-    <updated>2019-09-07T08:16:28.462Z</updated>
+    <updated>2019-09-07T08:17:42.833Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yaojingzhisen.github.io"/>
     <link rel="self" href="https://yaojingzhisen.github.io/atom.xml"/>
@@ -16,12 +16,14 @@
         <link href="https://yaojingzhisen.github.io/post/2019-nian-she-tuan-zhao-xin-huo-dong-kai-shi-liao">
         </link>
         <updated>2019-09-07T08:10:35.000Z</updated>
-        <content type="html"><![CDATA[<p>兰州二十七中妖精之森动漫社开始招新~
-只要你对 <strong>动漫 模玩 宅舞 ACG音乐 Cosplay</strong> 其中的任何一项感兴趣都可以成为我们当中的一员
-作为<strong>IM的签约社团</strong> 有才华的你也有机会在更大的舞台上展现自己的魅力
-每周四的社团活动也会让大家感受到更多的欢乐
-社里的大家也欢迎志同道合的朋友们的到来
-加入我们！让妖精之森动漫社成为你高中最难忘的回忆吧！</p>
+        <content type="html"><![CDATA[<p>兰州二十七中妖精之森动漫社开始招新~</p>
+<ul>
+<li>只要你对 <strong>动漫 模玩 宅舞 ACG音乐 Cosplay</strong> 其中的任何一项感兴趣都可以成为我们当中的一员</li>
+<li>作为<strong>IM的签约社团</strong> 有才华的你也有机会在更大的舞台上展现自己的魅力</li>
+<li>每周四的社团活动也会让大家感受到更多的欢乐</li>
+<li>社里的大家也欢迎志同道合的朋友们的到来</li>
+<li>加入我们！让妖精之森动漫社成为你高中最难忘的回忆吧！</li>
+</ul>
 ]]></content>
     </entry>
 </feed>
